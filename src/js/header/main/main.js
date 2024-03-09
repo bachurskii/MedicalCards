@@ -5,15 +5,15 @@ class Main {
     const main = document.createElement("div");
     main.innerHTML = `
     <div id ='loginMain' class="  border border-solid-red   ">
-    <div class="bg-[url('/src/img/backround-img.png')] h-full  bg-center ...">
+    <div class="bg-[url('./src/img/backround-img.png')] h-full  bg-center ...">
    <div class=" flex flex-col  justify-center items-start">
     <div class="bg-white p-6 rounded shadow-md text-center mt-32 w-72 w-96  m-44 my-64">
         <h1 class="text-5xl font-bold mb-4">SERVICES FOR PATIENTS</h1>
         <p class="text-xl">We provide the widest range of accredited, innovative patient services.</p>
         <div class="flex justify-center gap-y-5 mt-4">
-            <a href="#" class="text-blue-600 mx-2"> <img src='/src/img/facebook_icon-icons.com_53612.png' class ='w-8'></a>
-            <a href="https://www.linkedin.com/feed/" class="text-blue-300 mx-2"><img src='/src/img/linkedin_icon-icons.com_65929.png' class ='w-8'></a>
-            <a href="https://github.com/bachurskii" class="text-pink-600 mx-2"><img src='/src/img/github-logo_icon-icons.com_73546.png' class ='w-8'></a>
+            <a href="#" class="text-blue-600 mx-2"> <img src='./src/img/facebook_icon-icons.com_53612.png' class ='w-8'></a>
+            <a href="https://www.linkedin.com/feed/" class="text-blue-300 mx-2"><img src='./src/img/linkedin_icon-icons.com_65929.png' class ='w-8'></a>
+            <a href="https://github.com/bachurskii" class="text-pink-600 mx-2"><img src='./src/img/github-logo_icon-icons.com_73546.png' class ='w-8'></a>
         </div>
     </div>
 </div>
