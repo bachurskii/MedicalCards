@@ -5,7 +5,7 @@ class Main {
     const main = document.createElement("div");
     main.innerHTML = `
     <div id ='loginMain' class="  border border-solid-red   ">
-    <div class="bg-[url('src/img/backround-img.png')] h-full  bg-center ...">
+    <div class="bg-[url('/MedicalCards/src/img/backround-img.png')] h-full  bg-center ...">
    <div class=" flex flex-col  justify-center items-start">
     <div class="bg-white p-6 rounded shadow-md text-center mt-32 w-72 w-96  m-44 my-64">
         <h1 class="text-5xl font-bold mb-4">SERVICES FOR PATIENTS</h1>
