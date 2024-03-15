@@ -2023,24 +2023,20 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\.\/src\/img\/backround-img\.png\'\)\] {
-  background-image: url('./src/img/backround-img.png');
+.bg-\[url\(\'\.\/backround-img\.png\'\)\] {
+  background-image: url('./backround-img.png');
 }
 
-.bg-\[url\(\'src\/img\/backround-img\.png\'\)\] {
-  background-image: url('src/img/backround-img.png');
+.bg-\[url\(\'\.\/src\/img\/background-img\.png\'\)\] {
+  background-image: url('./src/img/background-img.png');
 }
 
 .bg-\[url\(\'\/src\/img\/backround-img\.png\'\)\] {
   background-image: url('/src/img/backround-img.png');
 }
 
-.bg-\[url\(\'\/\/src\/img\/backround-img\.png\'\)\] {
-  background-image: url('//src/img/backround-img.png');
-}
-
-.bg-\[url\(\'\/MedicalCards\/src\/img\/backround-img\.png\'\)\] {
-  background-image: url('/MedicalCards/src/img/backround-img.png');
+.bg-\[url\(\'\.\/src\/img\/backround-img\.png\'\)\] {
+  background-image: url('./src/img/backround-img.png');
 }
 
 .decoration-slice {
